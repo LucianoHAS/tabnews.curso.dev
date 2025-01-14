@@ -10,7 +10,7 @@ function checkPostgres() {
       return;
     }
 
-    process.stdout.write("\n🟢 → Postgres está aceitaando conexões!\n");
+    process.stdout.write("\n🟢 → Postgres está aceitando conexões!\n");
   }
 }
 
